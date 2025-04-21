@@ -94,7 +94,7 @@ html {
     padding: 0 12px;
     line-height: 38px;
 }
-#nav .nav-arrrow-down {
+#nav .fa-chevron-down {
     font-size: 14px;
 }
 #lesserafim-header .mobile-menu-button,
@@ -116,11 +116,11 @@ html {
 #lesserafim-header .mobile-menu-button:hover {
     background-color: #ccc;
 }
-#lesserafim-header .mobile-menu-button:hover .menu-icon {
+#lesserafim-header .mobile-menu-button:hover .fa-bars {
     color: #000;
 }
-#lesserafim-header .menu-icon,
-#lesserafim-header .search-icon {
+#lesserafim-header .fa-bars,
+#lesserafim-header .fa-magnifying-glass {
     color: white;
     font-size: 20px;
     line-height: 46px;
